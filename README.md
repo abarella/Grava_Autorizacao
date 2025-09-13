@@ -1,4 +1,4 @@
-# GRAVA AUTORIZACAO
+# GRAVA AUTORIZAÇÃO
 
 ## 📋 Descrição
 
