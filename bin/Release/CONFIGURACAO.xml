@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Pastas>
+	<DescricaoEnvio>Pasta onde sao salvos os XML das Nfe para envio a Secretaria da Fazenda</DescricaoEnvio>
+	<Envio>Y:\Uninfe4\Envio\</Envio>
+
+	<DescricaoRetorno>Pasta onde sao salvos os XML das Nfe de RETORNO da Secretaria da Fazenda</DescricaoRetorno>
+	<Retorno>C:\Temp</Retorno>
+
+	<DescricaoSemProtocolo>Arquivos Xml que tiveram erro na recepcao da Sec da Fazenda e retornaram sem protocolo</DescricaoSemProtocolo>
+	<SemProtocolo>Y:\Uninfe4\SemProtocolo\</SemProtocolo>
+
+	<DescricaoGravados>Arquivos de retorno que foram gravados com sucesso</DescricaoGravados>
+	<Gravados>c:\temp2</Gravados>
+
+	<DescricaoImportacao>Arquivos de Impressao da area de importacao e exportacao</DescricaoImportacao>
+	<Importacao>Y:\Uninfe4\Importacao\</Importacao>
+
+	<DescricaoPedro>Arquivos de Impressao da area de Almoxarifado Pedro</DescricaoPedro>
+	<Pedro>Y:\Uninfe4\Pedro\</Pedro>
+
+	<DescricaoCtr>Arquivos de Impressao da area de CTR</DescricaoCtr>
+	<Ctr>Y:\Uninfe4\Imprimir_CTR\</Ctr>
+
+	<DescricaoDirf>Arquivos de Impressao da DIRF</DescricaoDirf>
+	<Dirf>Y:\Uninfe4\Dirf\</Dirf>
+
+	<DescricaoServicos>Notas de Servico do Almoxarifado</DescricaoServicos>
+	<Servicos>Y:\Uninfe4\Servicos\</Servicos>
+
+	<DescricaoErro>Arquivos que tiveram Erros gerais</DescricaoErro>
+	<Erro>Y:\Uninfe4\Erro\</Erro>
+</Pastas>

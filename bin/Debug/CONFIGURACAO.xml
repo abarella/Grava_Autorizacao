@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Pastas>
+	<DescricaoEnvio>Pasta onde sao salvos os XML das Nfe para envio a Secretaria da Fazenda</DescricaoEnvio>
+	<Envio>C:\NFE\ENVIO\</Envio>
+
+	<DescricaoRetorno>Pasta onde sao salvos os XML das Nfe de RETORNO da Secretaria da Fazenda</DescricaoRetorno>
+	<Retorno>C:\NFE\Retorno\</Retorno>
+
+	<DescricaoSemProtocolo>Arquivos Xml que tiveram erro na recepcao da Sec da Fazenda e retornaram sem protocolo</DescricaoSemProtocolo>
+	<SemProtocolo>C:\NFE\SemProtocolo\</SemProtocolo>
+
+	<DescricaoGravados>Arquivos de retorno que foram gravados com sucesso</DescricaoGravados>
+	<Gravados>C:\NFE\Enviado\</Gravados>
+
+	<DescricaoImportacao>Arquivos de Impressao da area de importacao e exportacao</DescricaoImportacao>
+	<Importacao>C:\NFE\Importacao\</Importacao>
+
+	<DescricaoPedro>Arquivos de Impressao da area de Almoxarifado Pedro</DescricaoPedro>
+	<Pedro>C:\NFE\Pedro\</Pedro>
+
+	<DescricaoCtr>Arquivos de Impressao da area de CTR</DescricaoCtr>
+	<Ctr>C:\NFE\Imprimir_CTR\</Ctr>
+
+	<DescricaoDirf>Arquivos de Impressao da DIRF</DescricaoDirf>
+	<Dirf>C:\NFE\Dirf\</Dirf>
+
+	<DescricaoServicos>Notas de Servico do Almoxarifado</DescricaoServicos>
+	<Servicos>C:\NFE\Servicos\</Servicos>
+
+	<DescricaoErro>Arquivos que tiveram Erros gerais</DescricaoErro>
+	<Erro>C:\NFE\Erro\</Erro>
+
+  <DescricaoDenegado>Notas fiscais DENEGADAS </DescricaoDenegado>
+  <Denegado>C:\NFE\Denegado\</Denegado>
+  
+</Pastas>

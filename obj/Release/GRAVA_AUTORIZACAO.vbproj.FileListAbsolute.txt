@@ -1,0 +1,75 @@
+C:\Inetpub\wwwroot\Cópia de GRAVA_AUTORIZACAO\bin\Release\GRAVA_AUTORIZACAO.exe
+C:\Inetpub\wwwroot\Cópia de GRAVA_AUTORIZACAO\bin\Release\GRAVA_AUTORIZACAO.pdb
+C:\Inetpub\wwwroot\Cópia de GRAVA_AUTORIZACAO\bin\Release\GRAVA_AUTORIZACAO.xml
+C:\Inetpub\wwwroot\Cópia de GRAVA_AUTORIZACAO\obj\Release\ResolveAssemblyReference.cache
+C:\Inetpub\wwwroot\Cópia de GRAVA_AUTORIZACAO\obj\Release\GRAVA_AUTORIZACAO.frmGravarAutorizacao.resources
+C:\Inetpub\wwwroot\Cópia de GRAVA_AUTORIZACAO\obj\Release\GRAVA_AUTORIZACAO.Resources.resources
+C:\Inetpub\wwwroot\Cópia de GRAVA_AUTORIZACAO\obj\Release\GRAVA_AUTORIZACAO.vbproj.GenerateResource.Cache
+C:\Inetpub\wwwroot\Cópia de GRAVA_AUTORIZACAO\obj\Release\GRAVA_AUTORIZACAO.exe
+C:\Inetpub\wwwroot\Cópia de GRAVA_AUTORIZACAO\obj\Release\GRAVA_AUTORIZACAO.xml
+C:\Inetpub\wwwroot\Cópia de GRAVA_AUTORIZACAO\obj\Release\GRAVA_AUTORIZACAO.pdb
+C:\PRODUCAO - SISTEMAS - TESTES\quebra galho\GRAVA_AUTORIZACAO_QG\bin\Release\GRAVA_AUTORIZACAO.exe
+C:\PRODUCAO - SISTEMAS - TESTES\quebra galho\GRAVA_AUTORIZACAO_QG\bin\Release\GRAVA_AUTORIZACAO.pdb
+C:\PRODUCAO - SISTEMAS - TESTES\quebra galho\GRAVA_AUTORIZACAO_QG\bin\Release\GRAVA_AUTORIZACAO.xml
+C:\PRODUCAO - SISTEMAS - TESTES\quebra galho\GRAVA_AUTORIZACAO_QG\obj\Release\ResolveAssemblyReference.cache
+C:\PRODUCAO - SISTEMAS - TESTES\quebra galho\GRAVA_AUTORIZACAO_QG\obj\Release\GRAVA_AUTORIZACAO.frmGravarAutorizacao.resources
+C:\PRODUCAO - SISTEMAS - TESTES\quebra galho\GRAVA_AUTORIZACAO_QG\obj\Release\GRAVA_AUTORIZACAO.Resources.resources
+C:\PRODUCAO - SISTEMAS - TESTES\quebra galho\GRAVA_AUTORIZACAO_QG\obj\Release\GRAVA_AUTORIZACAO.vbproj.GenerateResource.Cache
+C:\PRODUCAO - SISTEMAS - TESTES\quebra galho\GRAVA_AUTORIZACAO_QG\obj\Release\GRAVA_AUTORIZACAO.exe
+C:\PRODUCAO - SISTEMAS - TESTES\quebra galho\GRAVA_AUTORIZACAO_QG\obj\Release\GRAVA_AUTORIZACAO.xml
+C:\PRODUCAO - SISTEMAS - TESTES\quebra galho\GRAVA_AUTORIZACAO_QG\obj\Release\GRAVA_AUTORIZACAO.pdb
+C:\PRODUCAO - SISTEMAS - TESTES\GravaAutorizacao versão Carta Correção Homologação\GRAVA_AUTORIZACAO\bin\Release\GRAVA_AUTORIZACAO.exe
+C:\PRODUCAO - SISTEMAS - TESTES\GravaAutorizacao versão Carta Correção Homologação\GRAVA_AUTORIZACAO\bin\Release\GRAVA_AUTORIZACAO.pdb
+C:\PRODUCAO - SISTEMAS - TESTES\GravaAutorizacao versão Carta Correção Homologação\GRAVA_AUTORIZACAO\bin\Release\GRAVA_AUTORIZACAO.xml
+C:\PRODUCAO - SISTEMAS - TESTES\GravaAutorizacao versão Carta Correção Homologação\GRAVA_AUTORIZACAO\obj\Release\ResolveAssemblyReference.cache
+C:\PRODUCAO - SISTEMAS - TESTES\GravaAutorizacao versão Carta Correção Homologação\GRAVA_AUTORIZACAO\obj\Release\GRAVA_AUTORIZACAO.frmGravarAutorizacao.resources
+C:\PRODUCAO - SISTEMAS - TESTES\GravaAutorizacao versão Carta Correção Homologação\GRAVA_AUTORIZACAO\obj\Release\GRAVA_AUTORIZACAO.Resources.resources
+C:\PRODUCAO - SISTEMAS - TESTES\GravaAutorizacao versão Carta Correção Homologação\GRAVA_AUTORIZACAO\obj\Release\GRAVA_AUTORIZACAO.vbproj.GenerateResource.Cache
+C:\PRODUCAO - SISTEMAS - TESTES\GravaAutorizacao versão Carta Correção Homologação\GRAVA_AUTORIZACAO\obj\Release\GRAVA_AUTORIZACAO.exe
+C:\PRODUCAO - SISTEMAS - TESTES\GravaAutorizacao versão Carta Correção Homologação\GRAVA_AUTORIZACAO\obj\Release\GRAVA_AUTORIZACAO.xml
+C:\PRODUCAO - SISTEMAS - TESTES\GravaAutorizacao versão Carta Correção Homologação\GRAVA_AUTORIZACAO\obj\Release\GRAVA_AUTORIZACAO.pdb
+C:\AC\MinhasVersões\GravaAutorizacao\bin\Release\GRAVA_AUTORIZACAO.exe
+C:\AC\MinhasVersões\GravaAutorizacao\bin\Release\GRAVA_AUTORIZACAO.pdb
+C:\AC\MinhasVersões\GravaAutorizacao\bin\Release\GRAVA_AUTORIZACAO.xml
+C:\AC\MinhasVersões\GravaAutorizacao\obj\Release\ResolveAssemblyReference.cache
+C:\AC\MinhasVersões\GravaAutorizacao\obj\Release\GRAVA_AUTORIZACAO.frmGravarAutorizacao.resources
+C:\AC\MinhasVersões\GravaAutorizacao\obj\Release\GRAVA_AUTORIZACAO.Resources.resources
+C:\AC\MinhasVersões\GravaAutorizacao\obj\Release\GRAVA_AUTORIZACAO.vbproj.GenerateResource.Cache
+C:\AC\MinhasVersões\GravaAutorizacao\obj\Release\GRAVA_AUTORIZACAO.exe
+C:\AC\MinhasVersões\GravaAutorizacao\obj\Release\GRAVA_AUTORIZACAO.xml
+C:\AC\MinhasVersões\GravaAutorizacao\obj\Release\GRAVA_AUTORIZACAO.pdb
+C:\AC\MinhasVersões\GravaAutorizacaoUninfe4\obj\Release\GRAVA_AUTORIZACAO.exe
+C:\AC\MinhasVersões\GravaAutorizacaoUninfe4\obj\Release\GRAVA_AUTORIZACAO.xml
+C:\AC\MinhasVersões\GravaAutorizacaoUninfe4\obj\Release\GRAVA_AUTORIZACAO.pdb
+C:\inetpub\wwwroot\Grava_autorizacao\obj\Release\GRAVA_AUTORIZACAO.exe
+C:\inetpub\wwwroot\Grava_autorizacao\obj\Release\GRAVA_AUTORIZACAO.xml
+C:\inetpub\wwwroot\Grava_autorizacao\obj\Release\GRAVA_AUTORIZACAO.pdb
+C:\inetpub\wwwroot\Grava_autorizacao\bin\Release\GRAVA_AUTORIZACAO.exe
+C:\inetpub\wwwroot\Grava_autorizacao\bin\Release\GRAVA_AUTORIZACAO.pdb
+C:\inetpub\wwwroot\Grava_autorizacao\bin\Release\GRAVA_AUTORIZACAO.xml
+C:\inetpub\wwwroot\Grava_autorizacao\obj\Release\GRAVA_AUTORIZACAO.frmGravarAutorizacao.resources
+C:\inetpub\wwwroot\Grava_autorizacao\obj\Release\GRAVA_AUTORIZACAO.Resources.resources
+C:\inetpub\wwwroot\Grava_autorizacao\obj\Release\GRAVA_AUTORIZACAO.vbproj.GenerateResource.Cache
+C:\inetpub\wwwroot\Grava_autorizacao\obj\Release\GRAVA_AUTORIZACAO.vbproj.CoreCompileInputs.cache
+D:\Adriana\SistemasIPEN\17022025-grava_autorizacao\Grava_Autorizacao\FONTES DO SISTEMA\Grava_autorizacao\bin\Release\GRAVA_AUTORIZACAO.exe
+D:\Adriana\SistemasIPEN\17022025-grava_autorizacao\Grava_Autorizacao\FONTES DO SISTEMA\Grava_autorizacao\bin\Release\GRAVA_AUTORIZACAO.pdb
+D:\Adriana\SistemasIPEN\17022025-grava_autorizacao\Grava_Autorizacao\FONTES DO SISTEMA\Grava_autorizacao\bin\Release\GRAVA_AUTORIZACAO.xml
+D:\Adriana\SistemasIPEN\17022025-grava_autorizacao\Grava_Autorizacao\FONTES DO SISTEMA\Grava_autorizacao\obj\Release\GRAVA_AUTORIZACAO.vbproj.AssemblyReference.cache
+D:\Adriana\SistemasIPEN\17022025-grava_autorizacao\Grava_Autorizacao\FONTES DO SISTEMA\Grava_autorizacao\obj\Release\GRAVA_AUTORIZACAO.frmGravarAutorizacao.resources
+D:\Adriana\SistemasIPEN\17022025-grava_autorizacao\Grava_Autorizacao\FONTES DO SISTEMA\Grava_autorizacao\obj\Release\GRAVA_AUTORIZACAO.Resources.resources
+D:\Adriana\SistemasIPEN\17022025-grava_autorizacao\Grava_Autorizacao\FONTES DO SISTEMA\Grava_autorizacao\obj\Release\GRAVA_AUTORIZACAO.vbproj.GenerateResource.cache
+D:\Adriana\SistemasIPEN\17022025-grava_autorizacao\Grava_Autorizacao\FONTES DO SISTEMA\Grava_autorizacao\obj\Release\GRAVA_AUTORIZACAO.vbproj.CoreCompileInputs.cache
+D:\Adriana\SistemasIPEN\17022025-grava_autorizacao\Grava_Autorizacao\FONTES DO SISTEMA\Grava_autorizacao\obj\Release\GRAVA_AUTORIZACAO.exe
+D:\Adriana\SistemasIPEN\17022025-grava_autorizacao\Grava_Autorizacao\FONTES DO SISTEMA\Grava_autorizacao\obj\Release\GRAVA_AUTORIZACAO.xml
+D:\Adriana\SistemasIPEN\17022025-grava_autorizacao\Grava_Autorizacao\FONTES DO SISTEMA\Grava_autorizacao\obj\Release\GRAVA_AUTORIZACAO.pdb
+C:\PROJETOS\Grava_autorizacao_TicoTeco\bin\Release\GRAVA_AUTORIZACAO.exe
+C:\PROJETOS\Grava_autorizacao_TicoTeco\bin\Release\GRAVA_AUTORIZACAO.pdb
+C:\PROJETOS\Grava_autorizacao_TicoTeco\bin\Release\GRAVA_AUTORIZACAO.xml
+C:\PROJETOS\Grava_autorizacao_TicoTeco\obj\Release\GRAVA_AUTORIZACAO.vbproj.AssemblyReference.cache
+C:\PROJETOS\Grava_autorizacao_TicoTeco\obj\Release\GRAVA_AUTORIZACAO.frmGravarAutorizacao.resources
+C:\PROJETOS\Grava_autorizacao_TicoTeco\obj\Release\GRAVA_AUTORIZACAO.Resources.resources
+C:\PROJETOS\Grava_autorizacao_TicoTeco\obj\Release\GRAVA_AUTORIZACAO.vbproj.GenerateResource.cache
+C:\PROJETOS\Grava_autorizacao_TicoTeco\obj\Release\GRAVA_AUTORIZACAO.vbproj.CoreCompileInputs.cache
+C:\PROJETOS\Grava_autorizacao_TicoTeco\obj\Release\GRAVA_AUTORIZACAO.exe
+C:\PROJETOS\Grava_autorizacao_TicoTeco\obj\Release\GRAVA_AUTORIZACAO.xml
+C:\PROJETOS\Grava_autorizacao_TicoTeco\obj\Release\GRAVA_AUTORIZACAO.pdb

@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Pastas>
+	<DescricaoEnvio>Pasta onde sao salvos os XML das Nfe para envio a Secretaria da Fazenda</DescricaoEnvio>
+	<Envio>C:\NotaFiscalEletronica_txt\Teste_Receita_txt\Envio\</Envio>
+
+	<DescricaoRetorno>Pasta onde sao salvos os XML das Nfe de RETORNO da Secretaria da Fazenda</DescricaoRetorno>
+	<Retorno>C:\NotaFiscalEletronica_txt\Teste_Receita_txt\Retorno\</Retorno>
+
+	<DescricaoSemProtocolo>Arquivos Xml que tiveram erro na recepcao da Sec da Fazenda e retornaram sem protocolo</DescricaoSemProtocolo>
+	<SemProtocolo>C:\NotaFiscalEletronica_txt\Teste_Receita_txt\SEMPROTOCOLO\</SemProtocolo>
+
+	<DescricaoGravados>Arquivos de retorno que foram gravados com sucesso</DescricaoGravados>
+	<Gravados>C:\NotaFiscalEletronica_txt\Teste_Receita_txt\GRAVADOS\</Gravados>
+
+	<DescricaoImportacao>Arquivos de Impressao da area de importacao e exportacao</DescricaoImportacao>
+	<Importacao>C:\NotaFiscalEletronica_txt\Teste_Receita_txt\Imprimir_IMPORTACAO\</Importacao>
+
+	<DescricaoPedro>Arquivos de Impressao da area de Almoxarifado Pedro</DescricaoPedro>
+	<Pedro>C:\NotaFiscalEletronica_txt\Teste_Receita_txt\Imprimir_PEDRO\</Pedro>
+
+	<DescricaoCtr>Arquivos de Impressao da area de CTR</DescricaoCtr>
+	<Ctr>C:\NotaFiscalEletronica_txt\Teste_Receita_txt\Imprimir_CTR\</Ctr>
+
+	<DescricaoDirf>Arquivos de Impressao da DIRF</DescricaoDirf>
+	<Dirf>C:\NotaFiscalEletronica_txt\Teste_Receita_txt\Imprimir_DIRF\</Dirf>
+
+	<DescricaoServicos>Arquivos de Impressao de notas de Servico do Almoxarifado</DescricaoServicos>
+	<Servicos>C:\NotaFiscalEletronica_txt\Teste_Receita_txt\Imprimir_Servicos\</Servicos>
+
+	<DescricaoErro>Arquivos que tiveram Erros gerais</DescricaoErro>
+	<Erro>C:\NotaFiscalEletronica_txt\Teste_Receita_txt\Erro\</Erro>
+	<Carta>C:\NotaFiscalEletronica_txt\Teste_Receita_txt\CartaCorrecao\</Carta>
+</Pastas>
